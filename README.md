@@ -66,30 +66,4 @@ Financial institutions face significant losses due to loan defaults. The goal is
 * Add explainable AI (SHAP)
 * Use real-time API integration
 
-## Screenshots
-<img src="cra1.png" width="800"/>
-
-<br/><br/>
-
-<img src="cra2.png" width="800"/>
-
-<br/><br/>
-
-<img src="cra3.png" width="800"/>
-
-<br/><br/>
-
-<img src="cra4.png" width="800"/>
-
-<br/><br/>
-
-<img src="cra5.png" width="800"/>
-
-<br/><br/>
-
-<img src="cr6.png" width="800"/>
-
-<br/><br/>
-
-<img src="cra7.png" width="800"/>
 
