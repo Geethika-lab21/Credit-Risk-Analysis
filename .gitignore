@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+data/loan.csv
+data/loan_sample.csv
+models/model.pkl
